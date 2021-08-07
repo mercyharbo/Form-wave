@@ -6,6 +6,9 @@ This is a project from the 50 projects 50 days course by Brad Traversy and Flori
 
 ![screencapture-mercyharbo-github-io-Form-wave-2021-08-07-03_33_38.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1628303690964/Qu30YDhPs.png)
 
+- Live site: https://mercyharbo.github.io/Form-wave/
+- Github: https://github.com/mercyharbo/Form-wave
+
 # What I learned 
 
 - The split() method divides a String into an ordered list of substrings, puts these substrings into an array, and returns the array.  The division is done by searching for a pattern; where the pattern is provided as the first parameter in the method's call.
@@ -17,10 +20,6 @@ This is a project from the 50 projects 50 days course by Brad Traversy and Flori
 # Continue Learning...
 
 I also think I'm understanding CSS animation a little bit more, like how the transition works, transform property and I am hoping to do more in the coming days as I'm trying to grasp my knowledge around animation and graphics with CSS since I understand everything else so much already and know how to use them, so I can be able to rate my CSS 100/100 because right now I feel like I am just 80%/100.
-
-
-- Live site: https://mercyharbo.github.io/Form-wave/
-- Github: https://github.com/mercyharbo/Form-wave
 
 # Author 
 
