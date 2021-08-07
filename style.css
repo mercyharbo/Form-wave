@@ -90,3 +90,9 @@ button:active {
     color: lightblue;
     transform: translateY(-30px);
 }
+
+@media screen and ( max-width: 769px ) {
+    .container {
+        padding: 5%;
+    }
+}
